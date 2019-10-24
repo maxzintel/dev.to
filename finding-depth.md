@@ -78,7 +78,45 @@ Keep in mind, for most people it takes ~66 days to form a habit disruptive to th
 ### Food <a name="food"></a>
 Food! A glorious thing. Don't worry; I am not a proponent of soylent or the bell-pepper diet. Just like everything else in this post, my goal for when and what I eat is to promote awareness, cognition, and happiness. That last part is why my diet on Sunday was, exclusively, 6.5 apple cider donuts and 2 servings of homeade apple crisp with ice cream on top.
 
+**What should I eat?**
+Fancy diets, calorie counting, and meal-prepping can seem daunting. The detail that some supposed fitness gurus recommend can be overwhelming. For our purposes, we can get the majority of the results from 2 simple rules: eat natural foods, and avoid sugar.
 
+When I say 'natural', I mean as un-processed as possible. In other words, stick to fruit, meat, fish, nuts, yogurt, vegetables, and if you need to 'carbo-load' for a 5k (say Michael Scott's Dunder Mifflin Scranton Meredith Palmer Memorial Celebrity Rabies Awareness Pro-Am Fun Run Race for the Cure, for example) stick to whole grains.
+
+Extra Credit: do a genetic test (like 23andMe) and submit your results to [Found My Fitness](https://www.foundmyfitness.com/genetics). This site was created by Dr. Rhonda Patrick, a brilliant woman focused on longevity, nutrition, and optimal health research. Perhaps the most actionable insights the report provides are those pertaining to your genetic pre-disposition to effectively or ineffectively process different foods, and your likelihood to be deficient in certain vitamins and minerals. If you want proof of Rhonda's brilliance, listen to one of the many podcasts she has appeared on as a guest. A couple that come to mind are: [The Tim Ferriss Show](https://www.youtube.com/watch?v=PWU3FUy7yPA), and [Joe Rogan Experience](https://www.youtube.com/watch?v=uxM_CLsvieE).
+
+**When should I eat?**
+Perhaps the most underappreciated (or unknown?) 'diet' method is time-restricted eating, AKA intermittent fasting. It is the cheapest and least time consuming diet there is, as the only requirement is to do _nothing_ when you might be eating instead. Doing nothing is pretty easy I've found.
+
+There are many different schedules possible for time-restricted eating, but one of the more straightforward schedules is called the 16:8 schedule. 16:8 just means we will eat all of our food for the day in an 8 hour window (ex: 12pm-8pm), and consume only water, tea, or coffee the other 16 hours. This can generally be accomplished by skipping breakfast.
+
+The Benefits:
+  * Like I mentioned above, it's free!
+  *
+
+Intermittent fasting
+Avoiding processed stuff - buying natural foods.
+Avoid sugar. Poison, cancer. Etc...
+Supplementation via genetic test.
+
+### Exercise <a name="exercise"></a>
+Easy way to practice making yourself uncomfortable and focusing on an intense, singular activity.
+Exercise with intensity in the mornings jumpstarts the day, provides a sense of accomplishment, promotes energy production, self-confidence.
+
+### Laser Mode <a name="laser-mode"></a>
+Minimize distraction
+1 focus, no multi-tasking
+Batching
+Digital Minimalism
+Sauna, cold shower - heat shock proteins.
+Journaling.
+Stoicism, general research, experiment with some ideas.
+Brain.fm
+
+
+### Conclusion <a name="conclusion"></a>
+
+{% user s1dequest %}
 
 ### Sources <a name="sources"></a>
 * Books, in no particular order:
