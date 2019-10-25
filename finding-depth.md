@@ -76,12 +76,14 @@ Ex:
 Keep in mind, for most people it takes ~66 days to form a habit disruptive to their current routines. There will be predictable bumps in the road in maintaining your new meditation practice. Knowing when those bumps are likely to arise is, for me, one of the most effective ways of powering through them. Read _The Power of Habit_ for the nitty gritty details.
 
 ### Food <a name="food"></a>
-Food! A glorious thing. Don't worry; I am not a proponent of soylent or the bell-pepper diet. Just like everything else in this post, my goal for when and what I eat is to promote awareness, cognition, and happiness. That last part is why my diet on Sunday was, exclusively, 6.5 apple cider donuts and 2 servings of homeade apple crisp with ice cream on top.
+Food! A glorious thing. Don't worry; I am not a proponent of soylent or the bell-pepper diet. Just like everything else in this post, my goal for when and what I eat is to promote awareness, cognition, and happiness. That last part is why my diet on Sunday was, exclusively, 6.5 apple cider donuts and 2 servings of homeade apple crisp with ice cream on top. Our goal here will be to eat whenever and whatever allows us to have a high level of energay _all-day_. Being distracted by hunger pangs, or energy loss will make it far more difficult to be as productive as we have the potential to be.
 
 **What should I eat?**
-Fancy diets, calorie counting, and meal-prepping can seem daunting. The detail that some supposed fitness gurus recommend can be overwhelming. For our purposes, we can get the majority of the results from 2 simple rules: eat natural foods, and avoid sugar.
+Fancy diets, calorie counting, and meal-prepping can seem daunting. The detail that some supposed fitness gurus recommend can be overwhelming. For our purposes, we can get the majority of the results from 2 simple rules: eat natural foods, and avoid refined sugar.
 
-When I say 'natural', I mean as un-processed as possible. In other words, stick to fruit, meat, fish, nuts, yogurt, vegetables, and if you need to 'carbo-load' for a 5k (say Michael Scott's Dunder Mifflin Scranton Meredith Palmer Memorial Celebrity Rabies Awareness Pro-Am Fun Run Race for the Cure, for example) stick to whole grains.
+When I say 'natural', I mean as un-processed as possible. In other words, stick to fruit, meat, fish, nuts, yogurt, vegetables, and if you need to 'carbo-load' for a 5k (say Michael Scott's Dunder Mifflin Scranton Meredith Palmer Memorial Celebrity Rabies Awareness Pro-Am Fun Run Race for the Cure, for example) stick to whole grains. Our bodies have not developed to digest highly process and refined foods, and the research proves that. You wouldn't (shouldn't) expect your car to drive very far if you filled the gas tank orange soda.
+
+The refined sugar avoidance is with good reason as well. Sugar in excess bumps up inflammatory bio-markers (bad), accelerates aging (also bad), and causes Type 2 diabetes (similarly, bad). In terms of daily productivity, refined sugar causes short peaks and extended troughs in energy levels. So, even if we discard all of the above side effects that are more long term, refined sugar still would not fit into our goal of cultivating an even energy level throughout the day. Some examples of refined sugar are: soda, candy, and cookies (more or less, anything with sugar that is not fruit).
 
 Extra Credit: do a genetic test (like 23andMe) and submit your results to [Found My Fitness](https://www.foundmyfitness.com/genetics). This site was created by Dr. Rhonda Patrick, a brilliant woman focused on longevity, nutrition, and optimal health research. Perhaps the most actionable insights the report provides are those pertaining to your genetic pre-disposition to effectively or ineffectively process different foods, and your likelihood to be deficient in certain vitamins and minerals. If you want proof of Rhonda's brilliance, listen to one of the many podcasts she has appeared on as a guest. A couple that come to mind are: [The Tim Ferriss Show](https://www.youtube.com/watch?v=PWU3FUy7yPA), and [Joe Rogan Experience](https://www.youtube.com/watch?v=uxM_CLsvieE).
 
@@ -90,31 +92,51 @@ Perhaps the most underappreciated (or unknown?) 'diet' method is time-restricted
 
 There are many different schedules possible for time-restricted eating, but one of the more straightforward schedules is called the 16:8 schedule. 16:8 just means we will eat all of our food for the day in an 8 hour window (ex: 12pm-8pm), and consume only water, tea, or coffee the other 16 hours. This can generally be accomplished by skipping breakfast.
 
-The Benefits:
+The Benefits of Fasting:
   * Like I mentioned above, it's free!
-  *
+  * Increase autophagy (the repair process I mentioned above in Sleep!).
+  * Improve insulin sensitivity and, thus, energy regulation.
+  * Our bodies start to use fat stores for fuel, rather than sugar and carbs, leading to fat loss.
 
-Intermittent fasting
-Avoiding processed stuff - buying natural foods.
-Avoid sugar. Poison, cancer. Etc...
-Supplementation via genetic test.
+Another interesting bit that Dr. Fung refers to in _The Complete Guide to Fasting_: our mental clarity and adrenaline levels both jump while we are fasting. This was very surprising to me, at first. I initially figured that, if I was fasting, I would be tired, moody, unproductive, and maybe start following a bunch of BBQ-related instagram pages. In actuality, only that last part was true! Digging a bit deeper, it started to make sense; when our body 'realizes' it has not eaten in 16, 24, or however many hours, it starts to go into overdrive to 'find food'. The theory is that this is an evolutionary mechanism. Back in the day (20000 B.C., or whatever), we were generally in a cycle of feast and fast. A hunt would be successful, and everyone would eat well. But, if a week goes by and no one gets a Mammoth, what is our response? We would _have_ to be on our game in those moments - thinking clearly, with high energy. So, why not simulate a similar situation with intermittent fasting?
 
 ### Exercise <a name="exercise"></a>
-Easy way to practice making yourself uncomfortable and focusing on an intense, singular activity.
-Exercise with intensity in the mornings jumpstarts the day, provides a sense of accomplishment, promotes energy production, self-confidence.
+Exercise is not mentioned too much in any of the books I reference below, but there are many, many reasons why it still deserves a place in everyone's daily routine, especially those of us looking to maximize awareness and productivity in our coding careers.
+
+Among its many health benefits, exercise is a quick, controlled way to practice making yourself uncomfortable with performing an intense, singular activity (one may notice the parallels to coding here). It is an incredible method for jumpstarting the day with an early win that also promotes energy production and in a (slightly vain, but still good) way, increases self-confidence. All of this output is incredibly beneficial in our search for depth, with lasting benefits throughout the day.
+
+But, what does exercise _actually_ do to your body and brain that helps us so much?
+**The Deets:**
+  * Increases neurotrophic factors in the brain by 2-3x!
+    * Improves our memory and ability to learn new stuff.
+    * Specifically, this is a result of ~30 mins of cardio.
+  * Increases blood flow to the brain, promoting the formation of new blood vessels/cells.
+  * Releases compounds like norepinephrine, seratonin, and dopamine that make you happier and less emotionally reactive.
+  * Improving delivery of oxygen to the muscles.
+    * Not sure what the mechanism is, but this has been shown to shrink fat cells, which decreases inflammation!
 
 ### Laser Mode <a name="laser-mode"></a>
-Minimize distraction
-1 focus, no multi-tasking
-Batching
-Digital Minimalism
-Sauna, cold shower - heat shock proteins.
-Journaling.
-Stoicism, general research, experiment with some ideas.
-Brain.fm
+Laser Mode, AKA Deep Work or Flow State: an "optimal state of consciousness where we feel our best and perform our best" (via psychologist Mihály Csíkszentmihályi). This is the state of being that we acquire knowledge most quickly, churn through our tickets for the current sprint, and get a personal record during our daily workout. It is also the state that everything above optimizes.
 
+**How do we get into Laser Mode and stay there?**
+  * Know what your goals are for the day; have a clear plan.
+  * Minimize distractions as much as possible.
+    * There are many ways to do this, but some examples are:
+      * Only have the necessary tabs open on your machine.
+      * Put your phone and messaging apps on 'Do Not Disturb'.
+      * Work in solitude (and/or invest in some noise-cancelling headphones).
+      * Communicate to coworkers that you will be unavailable during your Laser Mode time.
+  * Keep ample water/coffee/tea within reach.
+  * Practice the art of ['Batching'](https://youtu.be/ghVdzAeX0bg).
+    * Basically, schedule time where you will complete all of your 'busy' work/tasks that do not require deep focus such that you may focus on mentally/physically intense work without interruption.
+    * Ex: 9-11am Laser Mode, 11am-12pm answer Slack messages and eat lunch, 12-12:30pm go for a walk outdoors, 12:30-3pm, Laser Mode.
+  * This may have been implied from other bullet points, but **no multi-tasking**.
+    * Multi-tasking may make us feel more busy and productive, but studies show it does more harm than good.
+
+Extra Credit: Research binaural beats and their potential benefits! If you are convinced by the current science, check out sites like brain.fm and use their soundtracks to help nudge your brain into a state of deep focus.
 
 ### Conclusion <a name="conclusion"></a>
+I know this is not the typical dev.to post, but these topics have greatly contributed to my career in software development and my personal life. If anyone feels I left anything important out or has any book/podcast recommendations along these lines, please let me know in the comments below! This is a subject I am passionate about and I always enjoy learning more about various techniques to improve quality of life and work. Thank you for reading - I hope it was time well-spent.
 
 {% user s1dequest %}
 
