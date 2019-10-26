@@ -1,6 +1,6 @@
 # Finding Depth
 
-A path towards presence of mind, productivity, and general wellbeing. Hopefully it doesn't come off as _too_ preachy.
+A path towards presence of mind, productivity, and general well-being. Hopefully it doesn't come off as _too_ preachy.
 
 For those of you who, like me, are prone to hopping around posts like this:
   * [Introduction](#introduction)
@@ -56,7 +56,7 @@ All the the strategies above that I use have specific reasons (scientific resear
 During his research for one of his books (_Tools of Titans_, I think), author/teacher/podcaster/crazy-man Tim Ferriss found that the one thing that (nearly) every high performer he interviewed had in common was some form of a mindfulness meditation.
 
 **What is it?**
-Meditation is basically training the mind to have control over emotions - decreasing emotional reactivity. For many, this allows for a more thoughtful and deliberate approach to the day. The mornings where every stress point you've experienced in the last decade bubbles up to the surface and bears its teeth - that's where meditation helps. The evenings where you come home to the entirety of your kitchen's square footage being covered in the dirty dishes your roommate has apparently decided to collect - meditation helps deal with that too.
+Meditation is basically training the mind to have control over emotions - decreasing emotional reactivity. For many, this allows for a more thoughtful and deliberate approach to the day. Those mornings where every stress point you've experienced in the last decade bubbles up to the surface and bears its teeth - that's where meditation helps. The evenings where you come home to the entirety of your kitchen's square footage being covered in the dirty dishes your roommate has apparently decided to collect - meditation helps deal with that too.
 
 **What are the [Benefits?](https://www.headspace.com/meditation/benefits)**
 There are many, but the big ones, to me, are as follows:
@@ -73,10 +73,10 @@ Ex:
   * (Old) Routine = Checking Instagram.
   * (New) Routine = Opening Headspace and meditating for ~10 mins.
   * Reward = Smart phone fueled dopamine hit.
-Keep in mind, for most people it takes ~66 days to form a habit disruptive to their current routines. There will be predictable bumps in the road in maintaining your new meditation practice. Knowing when those bumps are likely to arise is, for me, one of the most effective ways of powering through them. Read _The Power of Habit_ for the nitty gritty details.
+Keep in mind, for most people it takes about 66 days to form a habit disruptive to their current routines. There will be predictable bumps in the road in maintaining your new meditation practice. Knowing when those bumps are likely to arise is, for me, one of the most effective ways of powering through them. Read _The Power of Habit_ for the nitty gritty details.
 
 ### Food <a name="food"></a>
-Food! A glorious thing. Don't worry; I am not a proponent of soylent or the bell-pepper diet. Just like everything else in this post, my goal for when and what I eat is to promote awareness, cognition, and happiness. That last part is why my diet on Sunday was, exclusively, 6.5 apple cider donuts and 2 servings of homeade apple crisp with ice cream on top. Our goal here will be to eat whenever and whatever allows us to have a high level of energay _all-day_. Being distracted by hunger pangs, or energy loss will make it far more difficult to be as productive as we have the potential to be.
+Food! A glorious thing. Don't worry; I am not a proponent of soylent or the bell-pepper diet. Just like everything else in this post, my goal for when and what I eat is to promote awareness, cognition, and happiness. That last part is why my diet on Sunday was, exclusively, 6.5 apple cider donuts and 2 servings of homeade apple crisp with ice cream on top. Our goal here will be to eat whenever and whatever allows us to have a high level of energy _all-day_. Being distracted by hunger pangs, or energy loss will make it far more difficult to be as productive as we have the potential to be.
 
 **What should I eat?**
 Fancy diets, calorie counting, and meal-prepping can seem daunting. The detail that some supposed fitness gurus recommend can be overwhelming. For our purposes, we can get the majority of the results from 2 simple rules: eat natural foods, and avoid refined sugar.
