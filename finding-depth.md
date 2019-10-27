@@ -1,6 +1,6 @@
 # Finding Depth
 
-A path towards presence of mind, productivity, and general well-being. Hopefully it doesn't come off as _too_ preachy.
+A path towards presence of mind, productivity, and general well-being. Hopefully, it doesn't come off as _too_ preachy.
 
 For those of you who, like me, are prone to hopping around posts like this:
   * [Introduction](#introduction)
@@ -21,24 +21,25 @@ More than anything I write below, I recommend reading the books I reference in t
 As (most of) our days begin with waking up, it seems to make sense that the first topic here is sleep, and the minutes surrounding it.
 
 **Why do we need it?**
-Sleep is important for many reasons, but mainly it is when our brain and body gets the down-time to recover and rebuild itself for the coming day. When you are sleeping, you eliminate the need to spend energy on the monotanous tasks our consciousness demands, namely: eating, moving, and thinking. This extra energy allows your mind/body to focus on repairing damaged cells through a process called _autophagy_ - one of the more metal bodily functions, as it is essentially the process of 'good' cells cannibalizing 'bad' (damaged) cells.
+Sleep is important for many reasons, but mainly it is when our brains and bodies gets the down-time to recover and rebuild itself for the coming day. When you are sleeping, you eliminate the need to spend energy on the monotanous tasks our consciousness demands, namely: eating, moving, and thinking. This extra energy allows your mind/body to focus on repairing damaged cells through a process called _autophagy_ - one of the more metal bodily functions, as it is essentially the process of 'good' cells cannibalizing 'bad' (damaged) cells.
 
 On the negative side of things, the research shows **less** sleep leads to:
   * A shorter life span.
   * A lesser capacity to realize you need more sleep, funnily enough.
-  * Higher chances of getting Alzheimer's and gaining weight.
-  * Higher chances of experiencing anxiety and depression.
+  * Higher chance of developing Alzheimer's.
+  * Higher chance of gaining weight.
+  * Higher chance of experiencing anxiety and depression.
   * A lesser capacity for memorization and creativity.
   * 10-30% less time to reach physical exhaustion.
   * And a lot of other very, truly bad stuff.
 
 **How much do we need?**
-The vast majority of the Earth's population of humans require 7-9 hours per night. Some miniscule percentage of super-humans can make due with ~5 hours, but that percentage does not include me or (probably) you. Another thing to note here is that it is very hard to catch up on lost sleep. For example, if you get 6-7 hrs a night for 10 days, your cognitive capacity is as dysfunctional as someone who has spent that last 24 hours awake. Naps don't help much either.
+The vast majority of the Earth's population of humans require 7-9 hours per night. Some minuscule percentage of super-humans can make do with ~5 hours, but that percentage does not include me or (probably) you. Another thing to note here is that it is very hard to catch up on lost sleep. For example, one study showed that if you get 6-7 hrs a night for 10 days, your cognitive capacity is as dysfunctional as someone who has spent the _entire previous 24 hours awake._ Naps don't help much either.
 
 **How do I get quality sleep?**
 There are _tons_ of great strategies to use for getting quality sleep, but I will list the few that I use:
   * Avoid screens (or at least, turn on blue light filtering) for at least 1 hour prior to bed.
-  * Get into bed 1 hour prior to when you actually want to be asleep.
+  * Get into bed 1 hour before you actually want to be asleep.
   * Write down your ideal morning routine on a piece of paper, and read it before closing your eyes for the night.
   * Do not eat within 2 hours of your bedtime.
   * Read for 1 hour prior to bed, maybe _Why We Sleep_ by Matthew Walker? _wink wink_
@@ -46,17 +47,17 @@ There are _tons_ of great strategies to use for getting quality sleep, but I wil
   * Sleep with a fan on.
   * Extra Credit:
     * Use Phillips Hue (or similar) to simulate sunset and sunrise in your home.
-      * Ex: Set a Hue light in your bedroom to begin dimming at 9pm, turn completely off at 10pm (bedtime), then slowly start fading back on at 5:30am.
+      * Ex: Set a Hue light in your bedroom to begin dimming at 9 pm, turn completely off at 10 pm (bedtime), then slowly start fading back on at 5:30 am.
     * Get an accurate sleep tracker like an Oura Ring. Measure a baseline sleep score with your normal habits over a couple weeks. Then implement the above strategies and compare your results!
     * Utilize 'Heat Shock Proteins'!
       * Research shows that using a sauna and/or taking a cold shower before bed improves sleep.
 All the the strategies above that I use have specific reasons (scientific research and personal experience) behind each of them. Each are explained in the Sources below.
 
 ### Meditation <a name="meditation"></a>
-During his research for one of his books (_Tools of Titans_, I think), author/teacher/podcaster/crazy-man Tim Ferriss found that the one thing that (nearly) every high performer he interviewed had in common was some form of a mindfulness meditation.
+During his research for one of his books (_Tools of Titans_, I think), author/teacher/podcaster/crazy-man Tim Ferriss found that the one thing that (nearly) every high performer he interviewed had in common was some form of a mindfulness practice.
 
 **What is it?**
-Meditation is basically training the mind to have control over emotions - decreasing emotional reactivity. For many, this allows for a more thoughtful and deliberate approach to the day. Those mornings where every stress point you've experienced in the last decade bubbles up to the surface and bears its teeth - that's where meditation helps. The evenings where you come home to the entirety of your kitchen's square footage being covered in the dirty dishes your roommate has apparently decided to collect - meditation helps deal with that too.
+Meditation is basically training the mind to have control over emotions - decreasing emotional reactivity. For many, this allows for a more thoughtful and deliberate approach to the day. Those mornings where every stress point you've experienced in the last decade bubbles up to the surface and bears its teeth - that's where meditation helps. The evenings where you come home to the entirety of your kitchen's square footage being covered in the dirty dishes your roommate has apparently decided to collect into the world's grossest museum display? Meditation helps deal with that too.
 
 **What are the [Benefits?](https://www.headspace.com/meditation/benefits)**
 There are many, but the big ones, to me, are as follows:
@@ -72,8 +73,8 @@ Ex:
   * Cue = Grabbing my phone to turn off my alarm.
   * (Old) Routine = Checking Instagram.
   * (New) Routine = Opening Headspace and meditating for ~10 mins.
-  * Reward = Smart phone fueled dopamine hit.
-Keep in mind, for most people it takes about 66 days to form a habit disruptive to their current routines. There will be predictable bumps in the road in maintaining your new meditation practice. Knowing when those bumps are likely to arise is, for me, one of the most effective ways of powering through them. Read _The Power of Habit_ for the nitty gritty details.
+  * Reward = Smartphone fueled dopamine hit.
+Keep in mind, for most people it takes about 66 days to form a habit disruptive to their current routines. There will be predictable bumps in the road in maintaining your new meditation practice. Knowing when those bumps are likely to arise is, for me, one of the most effective ways of powering through them. Read _The Power of Habit_ for the nitty-gritty details.
 
 ### Food <a name="food"></a>
 Food! A glorious thing. Don't worry; I am not a proponent of soylent or the bell-pepper diet. Just like everything else in this post, my goal for when and what I eat is to promote awareness, cognition, and happiness. That last part is why my diet on Sunday was, exclusively, 6.5 apple cider donuts and 2 servings of homeade apple crisp with ice cream on top. Our goal here will be to eat whenever and whatever allows us to have a high level of energy _all-day_. Being distracted by hunger pangs, or energy loss will make it far more difficult to be as productive as we have the potential to be.
@@ -88,9 +89,9 @@ The refined sugar avoidance is with good reason as well. Sugar in excess bumps u
 Extra Credit: do a genetic test (like 23andMe) and submit your results to [Found My Fitness](https://www.foundmyfitness.com/genetics). This site was created by Dr. Rhonda Patrick, a brilliant woman focused on longevity, nutrition, and optimal health research. Perhaps the most actionable insights the report provides are those pertaining to your genetic pre-disposition to effectively or ineffectively process different foods, and your likelihood to be deficient in certain vitamins and minerals. If you want proof of Rhonda's brilliance, listen to one of the many podcasts she has appeared on as a guest. A couple that come to mind are: [The Tim Ferriss Show](https://www.youtube.com/watch?v=PWU3FUy7yPA), and [Joe Rogan Experience](https://www.youtube.com/watch?v=uxM_CLsvieE).
 
 **When should I eat?**
-Perhaps the most underappreciated (or unknown?) 'diet' method is time-restricted eating, AKA intermittent fasting. It is the cheapest and least time consuming diet there is, as the only requirement is to do _nothing_ when you might be eating instead. Doing nothing is pretty easy I've found.
+Perhaps the most underappreciated (or unknown?) 'diet' method is time-restricted eating, AKA intermittent fasting. It is the cheapest and least time-consuming diet there is, as the only requirement is to do _nothing_ when you might be eating instead. Doing nothing is pretty easy I've found.
 
-There are many different schedules possible for time-restricted eating, but one of the more straightforward schedules is called the 16:8 schedule. 16:8 just means we will eat all of our food for the day in an 8 hour window (ex: 12pm-8pm), and consume only water, tea, or coffee the other 16 hours. This can generally be accomplished by skipping breakfast.
+There are many different schedules possible for time-restricted eating, but one of the more straightforward schedules is called the 16:8 schedule. 16:8 just means we will eat all of our food for the day in an 8-hour window (ex: 12 pm-8 pm), and consume only water, tea, or coffee the other 16 hours. This can generally be accomplished by skipping breakfast.
 
 The Benefits of Fasting:
   * Like I mentioned above, it's free!
@@ -109,10 +110,10 @@ But, what does exercise _actually_ do to your body and brain that helps us so mu
 **The Deets:**
   * Increases neurotrophic factors in the brain by 2-3x!
     * Improves our memory and ability to learn new stuff.
-    * Specifically, this is a result of ~30 mins of cardio.
+    * Specifically, this results from a minimum of ~30 mins of cardio.
   * Increases blood flow to the brain, promoting the formation of new blood vessels/cells.
-  * Releases compounds like norepinephrine, seratonin, and dopamine that make you happier and less emotionally reactive.
-  * Improving delivery of oxygen to the muscles.
+  * Releases compounds like norepinephrine, serotonin, and dopamine that make you happier and less emotionally reactive.
+  * Improves the delivery of oxygen to the muscles.
     * Not sure what the mechanism is, but this has been shown to shrink fat cells, which decreases inflammation!
 
 ### Laser Mode <a name="laser-mode"></a>
@@ -128,8 +129,8 @@ Laser Mode, AKA Deep Work or Flow State: an "optimal state of consciousness wher
       * Communicate to coworkers that you will be unavailable during your Laser Mode time.
   * Keep ample water/coffee/tea within reach.
   * Practice the art of ['Batching'](https://youtu.be/ghVdzAeX0bg).
-    * Basically, schedule time where you will complete all of your 'busy' work/tasks that do not require deep focus such that you may focus on mentally/physically intense work without interruption.
-    * Ex: 9-11am Laser Mode, 11am-12pm answer Slack messages and eat lunch, 12-12:30pm go for a walk outdoors, 12:30-3pm, Laser Mode.
+    * Schedule time where you will complete all of your 'busy' work/tasks that do not require deep focus such that you may focus on mentally/physically intense work without interruption.
+    * Ex: 9-11 am Laser Mode, 11 am-12 pm answer Slack messages and eat lunch, 12-12:30 pm go for a walk outdoors, 12:30-3 pm, Laser Mode.
   * This may have been implied from other bullet points, but **no multi-tasking**.
     * Multi-tasking may make us feel more busy and productive, but studies show it does more harm than good.
 
@@ -147,7 +148,7 @@ I know this is not the typical dev.to post, but these topics have greatly contri
   * _The Power of Habit_ by Charles Duhigg
   * _Why We Sleep_ by Matthew Walker
   * _The 4 Hour Work Week_ by Tim Ferriss
-  * _Own the Day, Own your Life_ by Aubrey Marcus
+  * _Own the Day, Own Your Life_ by Aubrey Marcus
   * _The Alchemist_ by Paulo Coelho
   * _The Complete Guide to Fasting_ by Jason Fung and Jimmy Moore
   * _Make Time: How to Focus on What Matters Every Day_ by Jake Knapp
